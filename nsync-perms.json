@@ -1,5 +1,13 @@
 {
   "_home/.tmux.conf": {
     "mode": 33204
+  },
+  "_root/opt/demo/test": {
+    "mode": 16893,
+    "contents": {
+      "README.md": {
+        "mode": 33204
+      }
+    }
   }
 }
