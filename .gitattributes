@@ -1,0 +1,2 @@
+_home/** filter=git-crypt diff=git-crypt
+_root/** filter=git-crypt diff=git-crypt
