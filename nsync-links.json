@@ -1,4 +1,5 @@
 [
   "_home/.tmux.conf",
-  "_root/opt/demo/test"
+  "_root/opt/demo/test",
+  "_home/test.py"
 ]
